@@ -1,19 +1,13 @@
-# Привет! Я Tos4-gr8 👋
-
-Здесь вы можете найти мои проекты и код. Помимо разработки, я активно делюсь контентом на своих площадках:
-
-### 🌐 Мои блоги и соцсети
-
 <p align="left">
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" alt="Telegram Блог">
+  <!-- Кнопка Telegram -->
+  <a href="https://t.me" target="_blank" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://simpleicons.org" width="28" height="28" align="center" alt="Telegram" />
+    <b>Telegram Блог</b>
   </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Кнопка Instagram -->
+  <a href="https://instagram.com" target="_blank" style="text-decoration: none;">
+    <img src="https://simpleicons.org" width="28" height="28" align="center" alt="Instagram" />
+    <b>Instagram</b>
   </a>
 </p>
-
----
-
-### 🛠 Мой стек технологий
-Python
