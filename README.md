@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет! Я Tos4-gr8 👋
 
-<!--
-**Tos4-gr8/Tos4-gr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Здесь вы можете найти мои проекты и код. Помимо разработки, я активно делюсь контентом на своих площадках:
 
-Here are some ideas to get you started:
+### 🌐 Мои блоги и соцсети
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://t.me" target="_blank">
+    <img src="https://shields.io" alt="Telegram Блог">
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram">
+  </a>
+</p>
+
+---
+
+### 🛠 Мой стек технологий
+Python
